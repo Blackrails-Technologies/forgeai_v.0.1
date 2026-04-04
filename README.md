@@ -332,9 +332,9 @@ copies or substantial portions of the Software.
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           BlackRails Technology                            ║
-║                          Building the Future of AI                         ║
-║                    https://github.com/Blackrails-Technologies              ║
+║                           BlackRails Technology                               ║
+║                          Building the Future of AI                            ║
+║                    https://github.com/Blackrails-Technologies                 ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
