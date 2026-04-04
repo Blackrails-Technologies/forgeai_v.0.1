@@ -9,6 +9,8 @@
  ╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝
 ```
 
+![Homepage Preview](public/homepage.png)
+
 > **The open-source Play Store for AI tools** — Download and run powerful AI tools without ever touching a terminal, typing a command, or managing dependencies.
 
 [![Version](https://img.shields.io/badge/version-0.1-orange.svg)](https://github.com/Blackrails-Technologies/forgeai)
