@@ -1,0 +1,17 @@
+[
+  {
+    "id": "open-interpreter",
+    "name": "Open Interpreter",
+    "tagline": "Run code. Control your computer. No terminal needed.",
+    "description": "Open Interpreter lets an AI coding agent run Python, JavaScript, and shell commands locally on your machine. Ask it to build files, browse the web, edit code, or automate anything — all through plain English.",
+    "category": "Automation",
+    "pip_package": "open-interpreter",
+    "launch_cmd": "interpreter",
+    "min_python": "3.9",
+    "version": "0.3.5",
+    "size_mb": 45,
+    "gpu_required": false,
+    "tags": ["coding", "automation", "local", "agent"],
+    "installer": "install_open_interpreter.py"
+  }
+]
