@@ -18,6 +18,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-16.2.2-black.svg)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://www.typescriptlang.org/)
 
+✅ Live site: https://forgeai-v-0-1.vercel.app/ (deployed via Vercel)
+
 ---
 
 ## 🎯 What is ForgeAI?
